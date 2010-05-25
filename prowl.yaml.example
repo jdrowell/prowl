@@ -1,0 +1,10 @@
+db: prowl
+
+host: chat.freenode.net
+port: 6667
+nick: prowlbot
+user: prowlbot
+real: Prowl Bot
+nickserv_pass: s3cr3t
+join_channels: [ '#nosqlbr' ]
+#  join_channels: [ '#nosqlbr', '#riak', '#redis', '#mongodb', '#elasticsearch' ]
